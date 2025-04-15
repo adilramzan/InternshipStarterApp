@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">InternshipStarterApp</string>
+    <string name="show_motivation">Show Motivation</string>
+    <string name="dev_greetings">Welcome Developers!</string>
+    <string name="motivation_box_title">Motivation</string>
+</resources>
